@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there I'm Jaime wellcome to my profile 👋</h1>
+<h1 align="center"> Hi there I'm Jaime welcome to my profile 👋</h1>
 <h3 align="center">I'm a passionate economist learner of Data Science from Madrid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgilsu11&label=Profile%20views&color=0e75b6&style=flat" alt="jgilsu11" /> </p>
