@@ -7,7 +7,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgilsu11&show_icons=true&locale=en" alt="jgilsu11" /></p>
 <br>
 <br>
-- 🌱 I’m currently learning <h2>Data Science</h2>
+- 🌱 I’m currently learning **Data Science**
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
