@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+😄 Pronouns: he/him
+
+🤔 I’m looking for help with Data Science
 <!--
 **jgilsu11/jgilsu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
