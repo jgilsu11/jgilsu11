@@ -1,6 +1,13 @@
 <h1 align="center"> Hi there I'm Jaime welcome to my profile 👋</h1>
 <h3 align="center">I'm a passionate economist learner of Data Science from Madrid</h3>
 
+<!-- WakaTime Stats Section -->
+<p align="center">
+  <a href="https://wakatime.com/@jgilsu11" style="outline: none; text-decoration: none;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jgilsu11&style=compact" alt="jgilsu11" />
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgilsu11&label=Profile%20views&color=0e75b6&style=flat" alt="jgilsu11" /> </p>
 <br>
 <br>
