@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgilsu11&show_icons=true&locale=en" alt="jgilsu11" /></p>
 <br>
 <br>
-🌱 I’m currently learning _Data Science_
+🌱 Always keen on developing efficient solutions and growing as a data scientist
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
