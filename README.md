@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there I'm Jaime welcome to my profile 👋</h1>
-<h3 align="center">I'm a passionate economist learner of Data Science from Madrid</h3>
+<h3 align="center">I'm a passionate economist and data scientist from Madrid</h3>
 
 <!-- WakaTime Stats Section -->
 <p align="center">
